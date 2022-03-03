@@ -1,0 +1,19 @@
+{
+  "name": "primerrepo",
+  "version": "1.0.0",
+  "description": "Tutorial GIT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArduinoProGame/FirstRepo.git"
+  },
+  "author": "Ing. Pablo Estrella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArduinoProGame/FirstRepo/issues"
+  },
+  "homepage": "https://github.com/ArduinoProGame/FirstRepo#readme"
+}
